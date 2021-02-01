@@ -7,13 +7,12 @@
 }
 
 .col-12 {
-    background-color: silver;
+    background-color:lightgrey;
     margin-bottom: 20px;
 }
 
 h4 {
     padding-top: 12px;
-    color: darkgray; 
 }
 
 #main-content h2 { 
