@@ -1,0 +1,37 @@
+.container { 
+        width: 90%;
+}
+
+.navbar-brand h2 {
+    color: grey;
+}
+
+.col-12 {
+    background-color: silver;
+    margin-bottom: 20px;
+}
+
+h4 {
+    padding-top: 12px;
+    text-align: center;
+}
+
+.nav-link { 
+    text-align: center;
+}
+
+#main-content h2 { 
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+@media (min-width: 576px) and (max-width: 1500px) { 
+    .navbar-nav { 
+        display: none;
+    }
+    .navbar-toggler { 
+        display: none;
+    }
+ }
